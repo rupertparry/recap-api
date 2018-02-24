@@ -1,0 +1,8 @@
+{
+  "name": "recap-api",
+  "version": "1.0.0",
+  "description": "An API for the Recap client application.",
+  "main": "server.js",
+  "author": "Rupert Parry <raparry@me.com>",
+  "license": "MIT"
+}
